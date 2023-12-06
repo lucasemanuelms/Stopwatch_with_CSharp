@@ -1,0 +1,14 @@
+/home/lucas/Documentos/Projetos CSharp/StopWatch/bin/Debug/net7.0/StopWatch
+/home/lucas/Documentos/Projetos CSharp/StopWatch/bin/Debug/net7.0/StopWatch.deps.json
+/home/lucas/Documentos/Projetos CSharp/StopWatch/bin/Debug/net7.0/StopWatch.runtimeconfig.json
+/home/lucas/Documentos/Projetos CSharp/StopWatch/bin/Debug/net7.0/StopWatch.dll
+/home/lucas/Documentos/Projetos CSharp/StopWatch/bin/Debug/net7.0/StopWatch.pdb
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/StopWatch.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/StopWatch.AssemblyInfo.cs
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/StopWatch.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/StopWatch.dll
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/refint/StopWatch.dll
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/StopWatch.pdb
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/StopWatch.genruntimeconfig.cache
+/home/lucas/Documentos/Projetos CSharp/StopWatch/obj/Debug/net7.0/ref/StopWatch.dll
